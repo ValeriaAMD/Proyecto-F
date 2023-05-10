@@ -1,0 +1,4 @@
+identificar proveedores- que llevan- cada cuando 
+- que no llevan (descontinuados) 
+codigos SKU para venta para todo lo que no tenga 
+codigo (unidades)
