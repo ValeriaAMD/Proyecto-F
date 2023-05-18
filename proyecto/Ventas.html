@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>Buscar</title>
+			<title>Punto de venta</title>
 				<link rel="stylesheet" type="text/css" href="estBP.css">
 				<meta name="viewport" content="width=device-width, initial-scale=1">
                 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -10,31 +10,19 @@
 			<div class="header">Ferreteria Espinoza</div>
 			
 			<div class="login">
-				<h1>Buscar producto</h1>
+				
 				<form>
-					<label>Codigo de barras</label>
+					<label>Producto</label>
 					<input type="search" id="busqueda" name="q"/>
 					<input type="submit" value="Buscar">
 					<table id="customers">
   <tr>
-    <th>Codigo de barras</th>
+    <th>Codigo </th>
     <th>Descripción</th>
     <th>Precio Costo</th>
     <th>Precio de venta</th>
-    <th>Precio de mayoreo</th>
-    <th>Venta por </th>
   </tr>
   <tr>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-  </tr>
-  <tr>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
@@ -45,20 +33,34 @@
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
-    <td>xxxxxxx</td>
   </tr>
   <tr>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
+    <td>xxxxxxx</td>
+    <td>xxxxxxx</td>
+  </tr>
+  <tr>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
     <td>xxxxxxx</td>
   </tr>
 </table>
-					<input type="submit" value="Modificar" >
-					<input type="submit" value="Eliminar">
+ <div class="dropdown">
+    <form> 
+          <label>Info de la venta</label>
+          <input type="text" name="username"
+          placeholder="Nombre del cliente seleccionado en el boton, Cliente.
+          Total a pagar de los productos seleccionados.
+          Descuento agregado del boton, Descuento.
+          Total a pagar ">
+          
+          <input type="submit" value="Pagar">
+          <input type="submit" value="Cliente">
+          <input type="submit" value="Descuento">
+        </form> 
+  </div>
 				</form>
 			</div>
 		</body>

@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-05-02T18:55:13.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="ewUKVA_yHcVU8bMWXXVd" version="21.1.2" type="device" pages="6">
+<mxfile host="Electron" modified="2023-05-17T19:50:28.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="PeBprnU3pPEMLKexT2a3" version="21.2.1" type="device" pages="6">
   <diagram name="Diagrama Principal" id="USpHu1eaCkqz-5q4KZrR">
-    <mxGraphModel dx="2113" dy="2417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XiUDTZrjwssdHOqNSOx8" name="Diagrama de venta">
-    <mxGraphModel dx="1207" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FuuK1jP0PoDPq5UIRMwE" name="Corte de caja">
-    <mxGraphModel dx="581" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,25 +392,25 @@
           <mxGeometry x="1630" y="1076.5" width="136.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-10" value="Total previsto" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;fillColor=#D8E3E7;" parent="1" vertex="1">
-          <mxGeometry x="1353.5" y="1226.5" width="306.5" height="60" as="geometry" />
+          <mxGeometry x="1353.5" y="1160" width="306.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-11" value="$" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1654.25" y="1226.5" width="136.5" height="60" as="geometry" />
+          <mxGeometry x="1654.25" y="1160" width="136.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-12" value="Corte" style="text;html=1;strokeColor=#666666;fillColor=#126E82;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D8E3E7;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1890" y="1440" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-13" value="Contado" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;fillColor=#D8E3E7;" parent="1" vertex="1">
-          <mxGeometry x="1353.5" y="1286.5" width="306.5" height="60" as="geometry" />
+          <mxGeometry x="1353.5" y="1220" width="306.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-14" value="$" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1654.25" y="1286.5" width="136.5" height="60" as="geometry" />
+          <mxGeometry x="1654.25" y="1220" width="136.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-15" value="Diferencia" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;fillColor=#D8E3E7;" parent="1" vertex="1">
-          <mxGeometry x="1353.5" y="1346.5" width="306.5" height="60" as="geometry" />
+          <mxGeometry x="1353.5" y="1280" width="306.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kzf6eZAQgVJ4b74DPN_n-16" value="$" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#132C33;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1654.25" y="1346.5" width="136.5" height="60" as="geometry" />
+          <mxGeometry x="1654.25" y="1280" width="136.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

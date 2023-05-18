@@ -2,7 +2,7 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 30%;
     background-color: #D8E3E7;
     font-style: normal;
     font-size: 90%:;
@@ -67,7 +67,6 @@ input[type=submit] {
 #customers td, #customers th {
   border: 1px solid #ddd;
   padding: 8px;
-  text-align: center;
 }
 
 #customers tr:nth-child(even){background-color: #f2f2f2;}
@@ -77,7 +76,7 @@ input[type=submit] {
 #customers th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: center;
+  text-align: left;
   background-color: #AEB7BA;
   color: white;
 }
